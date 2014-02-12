@@ -1,1 +1,3 @@
 # tsiiiboho: I'm thinking of making a site that posts up articles, copouns, savings etc for students.
+
+What elements are you planning to manage with this app
